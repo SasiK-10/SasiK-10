@@ -47,14 +47,6 @@ From building scalable pipelines to crafting insightful dashboards and deploying
   <a href="https://www.linkedin.com/in/sasikanthbh" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:sasikanthbh@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/jagreprajwal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
 </p>
 
 ---
@@ -62,13 +54,13 @@ From building scalable pipelines to crafting insightful dashboards and deploying
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sasikanthbh&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SasiK-10&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sasikanthbh&theme=default&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SasiK-10&theme=default&hide_border=false" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasikanthbh&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasiK-10&layout=compact" alt="Top Languages" />
 </p>
 
 ---
