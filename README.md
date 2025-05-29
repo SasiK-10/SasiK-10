@@ -51,20 +51,6 @@ From building scalable pipelines to crafting insightful dashboards and deploying
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SasiK-10&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SasiK-10&theme=default&hide_border=false" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SasiK-10&layout=compact" alt="Top Languages" />
-</p>
-
----
-
 ### 📌 Featured Work
 
 <p align="center">
